@@ -1,2 +1,3 @@
-# windows.js
-A futuristic windows manager in HTML5 and Javascript.
+<img align="center" src="/browserdesk.png">
+<h1 align="center">browserdesk.js</h1>
+<p></p>
