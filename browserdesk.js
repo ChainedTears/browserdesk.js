@@ -274,6 +274,5 @@ if (!localStorage.getItem('visitedBefore')) {
 }
 
 
-*/
 
 // IT IS RECOMMENDED TO USE STYLES INSIDE THE HTML TAGS, LIKE I DID ABOVE.
